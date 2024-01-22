@@ -1,6 +1,4 @@
-### Hi there 👋
-- 🔭 I’m currently working on VR development
-- 🌱 I’m currently learning Three.js
+### Hi there 
 - 👯 I’m looking to collaborate on Web development
 - 📫 How to reach me: magarwa5@ucsc.edu
 - 😄 Pronouns: she/her/hers
